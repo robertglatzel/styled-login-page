@@ -35,7 +35,7 @@ function getInfo() {
 		}
 	}
 	console.log("try again")
-	alert("Invalid username and password.")
+	alert("Invalid username and password. Please register or try again.")
 	return
 }
 
